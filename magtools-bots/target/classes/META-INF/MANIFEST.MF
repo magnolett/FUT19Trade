@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: magtools-bots
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Assert-DEV
+Implementation-Vendor-Id: br.com.magtools
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/magtools-core/magtools-bots
+Created-By: Maven Integration for Eclipse
+
